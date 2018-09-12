@@ -1,0 +1,30 @@
+li.inset{
+	border-style: inset;
+	margin-top: 39px;
+	margin-right: 60px;
+	margin-left: 85px;
+	display: inline-block;
+	font-family: monospace;
+	font-size: 20px;
+}
+
+
+img{
+	margin-top: 60px;
+	margin-right: 60px;
+	margin-left: 60px;
+
+
+}
+
+p{
+	float: left;
+	text-align: left;
+	margin: 60px;
+	width: 480px;
+	font-family: monospace;
+	font-size: 19px;
+	border-style: inset;
+	margin-left: 128px;
+
+}
