@@ -6,8 +6,9 @@ header {
 	padding-right:40px;
 }
 body{
-	background: url("/B1W3O1-Wie-ben-ik/pictures/bg_color.png") repeat center fixed;
-}
+	√background: rgb(18,137,215);
+	background: radial-gradient(circle, rgba(18,137,215,1) 16.7%, rgba(130,34,135,1) 33.4%, rgba(216,33,43,1) 50.1%, rgba(243,109,7,1) 66.8%, rgba(253,172,9,1) 83.5%, rgba(65,157,35,1) 100.2%);
+}	
 li{
 	border-style: inset;
 	margin-top: 39px;
@@ -35,6 +36,7 @@ p{
 	border-style: inset;
 	margin-left: 128px;
 	margin-top: 60px;
+	color:ivory;
 }
 h1{
 	margin-left: 500px;
@@ -48,5 +50,9 @@ a{
 
 a:hover {
 	color: #009688;
+	transform: translateY(-5%);
+}
+i:hover {
+	color: #6b9600;
 	transform: translateY(-5%);
 }
